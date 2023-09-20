@@ -1,1 +1,3 @@
-# Neural-Networks
+Neural networks are a foundational in deep learning which is a subfieled of maching learning. They are computational representations that are inspired by the organisation and operation of the nueral netwroks in the human brain. Artificial neurons or units, the nodes that make up neural networks—are connected and arranged into layers; usually an input layer, one or more hidden layers, and an output layer.
+
+The task in the Exploring Neural Networks.ipynb was completed in Jupyter Notebook and the aim was to illustrate that neurons can be used to model logic gates. Neurons perform a basic computation by inputting values and passing the results through an activation function, typically the sigmoid function, to produce an output.
